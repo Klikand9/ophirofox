@@ -95,6 +95,7 @@
     , "https://nouveau-europresse-com.proxy.univ-nc.nc/*"
     , "https://nouveau-europresse-com.buproxy2.univ-avignon.fr/*"
     , "https://nouveau-europresse-com.proxy.utt.fr/*"
+    , "https://nouveau.europresse.com/access/ip/default.aspx?un=BMLYON/*"
     , "https://nouveau-europresse-com.proxy.bnl.lu/*"
   ],
   "background": {
@@ -700,6 +701,10 @@
         {
           "name": "Université de Versailles St-Quentin-en-Yvelines",
           "AUTH_URL": "https://ezproxy.universite-paris-saclay.fr/login?url=http://nouveau.europresse.com/access/ip/default.aspx?un=U031535T_1"
+        },
+        {
+          "name": "Bibliothèque municipale de Lyon",
+          "AUTH_URL": "https://nouveau.europresse.com/access/ip/default.aspx?un=BMLYON",
         },
         {
           "name": "University of Cambridge",
